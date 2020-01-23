@@ -1,6 +1,6 @@
 # python-flask-api
 
-A little app that returns the name of a random cocktail from the free online drinks API
+A little app that returns the name of a random item from a free online API
 
 -Install python
 -Install flask
